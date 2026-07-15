@@ -325,16 +325,4 @@ This ensures that sensitive credentials are never uploaded to public repositorie
 
 ---
 
-# ✅ Conclusion
 
-This experiment demonstrates that the **Temperature** parameter plays a crucial role in controlling the randomness and creativity of GPT model responses.
-
-- **Low temperatures (0.0)** generate predictable, consistent, and highly factual responses, making them ideal for summarization, OCR, information retrieval, and question answering.
-
-- **Medium temperatures (0.3–0.7)** provide a balance between accuracy and creativity, making them suitable for chatbots, educational systems, documentation, and coding assistants.
-
-- **High temperatures (1.0)** encourage imaginative, diverse, and creative outputs, making them ideal for storytelling, brainstorming, marketing content, and creative writing.
-
-Understanding the effect of temperature helps developers select the most appropriate settings for different AI-powered applications and is one of the fundamental concepts in Prompt Engineering.
-
----
